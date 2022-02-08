@@ -3,11 +3,12 @@ wget
 python3-dev
 aiohttp
 yt-dlp
+git+https://github.com/ytdl-org/youtube-dl
 ​ffmpeg
 clang
 gcc
 python-dotenv
-tgcrypto
+TgCrypto
 libpq-dev
 ​SQLAlchemy
 ​httplib2
@@ -17,6 +18,8 @@ libpq-dev
 ​lk21
 ​beautifulsoup4
 ​lxml
+hachoir
+pillow
 telethon
 python-telegram-bot
 ​psycopg2-binary
