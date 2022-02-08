@@ -12,10 +12,11 @@ TgCrypto
 libpq-dev
 httplib2==0.20.4
 ​tenacity==8.0.1
-​html5lib
-​lk21
-​beautifulsoup4
-​lxml
+contextlib3==3.10.0
+urllib3==1.26.8
+contextlib2==21.6.0
+​html5lib==1.1
+​beautifulsoup4==4.10.0
 hachoir
 pillow
 telethon
