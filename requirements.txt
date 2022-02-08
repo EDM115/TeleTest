@@ -1,5 +1,8 @@
 pyrogram
 wget
+python3-dev
+clang
+gcc
 ​tgcrypto
 ​psycopg2-binary
 ​sqlalchemy
