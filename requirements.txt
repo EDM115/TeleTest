@@ -14,7 +14,6 @@ httplib2==0.20.4
 contextlib3==3.10.0
 urllib3==1.26.8
 contextlib2==21.6.0
-​html5lib==1.1
 ​beautifulsoup4==4.10.0
 hachoir
 pillow
