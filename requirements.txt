@@ -3,6 +3,9 @@ wget
 python3-dev
 clang
 gcc
+python-dotenv
+tgcrypto
+llibpq-dev
 ​psycopg2-binary
 ​sqlalchemy
 ​httplib2
