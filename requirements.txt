@@ -1,6 +1,5 @@
 pyrogram
 wget
-python3-dev
 aiohttp
 yt-dlp
 -e git+git://github.com/ytdl-org/youtube-dl.git#egg=youtube-dl
