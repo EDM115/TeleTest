@@ -32,10 +32,10 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
     },
     {
-      "url": "heroku/python"
+      "url": "python/pySmartDL"
     },
     {
-      "url": "python/pySmartDL"
+      "url": "heroku/python"
     }
   ],
   "stack": "heroku-20"
