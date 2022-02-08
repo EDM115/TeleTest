@@ -3,14 +3,14 @@ wget
 python3-dev
 aiohttp
 yt-dlp
-git+https://github.com/ytdl-org/youtube-dl
-git+https://github.com/sqlalchemy/sqlalchemy
+-e git+git://github.com/ytdl-org/youtube-dl.git
+-e git+git://github.com/sqlalchemy/sqlalchemy.git
 clang
 gcc
 python-dotenv
 TgCrypto
 libpq-dev
-​git+https://github.com/httplib2/httplib2
+​-e git+git://github.com/httplib2/httplib2.git
 ​pySmartDL
 ​tenacity
 ​html5lib
