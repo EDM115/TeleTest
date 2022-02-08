@@ -10,7 +10,7 @@ gcc
 python-dotenv
 TgCrypto
 libpq-dev
-​-e git+git://github.com/httplib2/httplib2.git#egg=httplib2
+httplib2==0.20.4
 ​pySmartDL
 ​tenacity
 ​html5lib
