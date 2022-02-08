@@ -1,6 +1,10 @@
 pyrogram
 wget
 python3-dev
+aiohttp
+​youtube_dl
+yt-dlp
+​ffmpeg
 clang
 gcc
 python-dotenv
@@ -9,8 +13,6 @@ libpq-dev
 ​sqlalchemy
 ​httplib2
 ​pySmartDL
-​youtube_dl
-​ffmpeg
 ​tenacity
 ​html5lib
 ​lk21
