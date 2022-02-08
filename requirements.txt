@@ -1,6 +1,5 @@
 pyrogram
 wget
-​asyncio
 ​tgcrypto
 ​oauth2client
 ​psycopg2-binary
@@ -17,3 +16,5 @@ wget
 ​lk21
 ​beautifulsoup4
 ​lxml
+telethon
+python-telegram-bot
