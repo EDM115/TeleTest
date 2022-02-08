@@ -6,7 +6,6 @@ gcc
 python-dotenv
 tgcrypto
 libpq-dev
-​psycopg2-binary
 ​sqlalchemy
 ​httplib2
 ​pySmartDL
@@ -19,3 +18,4 @@ libpq-dev
 ​lxml
 telethon
 python-telegram-bot
+​psycopg2-binary
