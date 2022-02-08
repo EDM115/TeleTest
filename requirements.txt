@@ -5,7 +5,7 @@ clang
 gcc
 python-dotenv
 tgcrypto
-llibpq-dev
+libpq-dev
 ​psycopg2-binary
 ​sqlalchemy
 ​httplib2
