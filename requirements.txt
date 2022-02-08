@@ -2,7 +2,6 @@ pyrogram
 wget
 python3-dev
 aiohttp
-​youtube_dl
 yt-dlp
 ​ffmpeg
 clang
