@@ -11,7 +11,6 @@ python-dotenv
 TgCrypto
 libpq-dev
 httplib2==0.20.4
-​tenacity==8.0.1
 contextlib3==3.10.0
 urllib3==1.26.8
 contextlib2==21.6.0
@@ -21,4 +20,4 @@ hachoir
 pillow
 telethon
 python-telegram-bot
-​psycopg2-binary
+​psycopg2-binary==2.9.3
