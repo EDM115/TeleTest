@@ -9,7 +9,6 @@ gcc
 python-dotenv
 TgCrypto
 libpq-dev
-​SQLAlchemy
 ​httplib2
 ​pySmartDL
 ​tenacity
