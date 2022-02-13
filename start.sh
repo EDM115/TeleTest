@@ -1,1 +1,1 @@
-python -m bot.py
+python bot.py
