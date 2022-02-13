@@ -12,13 +12,6 @@ API_HASH​ ​=​ ​config​.​API_HASH
 #        await app.send_message("me", "Greetings from **Pyrogram**!")
 #asyncio.run(main())
 
-bot = Client(
-	"TeleTest"​,
-	​bot_token​=​BOT_TOKEN​,
-	​api_id​=​APP_ID​,
-	​api_hash​=​API_HASH
-	).​run​()
-
 @​bot​.​on_message​(​filters​.​command​([​"start"​])) 
 async​ ​def​ ​start​(​client​, ​message​):
 	joinButton​ ​=​ ​InlineKeyboardMarkup​([
@@ -29,3 +22,10 @@ async​ ​def​ ​start​(​client​, ​message​):
 	welcomed​ ​=​ ​f"Hey <b>​{​message​.​from_user​.​first_name​}​</b>​\n​/help for More info"
 	await​ ​message​.​reply_text​(​welcomed​, ​reply_markup​=joinButton)
 	raise​ ​StopPropagation
+
+bot = Client(
+	"TeleTest"​,
+	​bot_token​=​BOT_TOKEN​,
+	​api_id​=​APP_ID​,
+	​api_hash​=​API_HASH
+	).​run​()
