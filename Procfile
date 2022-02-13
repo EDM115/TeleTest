@@ -1,1 +1,1 @@
-​web: chmod +x start.sh && bash start.sh
+​web: python3 bot.py
