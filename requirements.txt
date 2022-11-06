@@ -7,7 +7,7 @@ yt-dlp
 clang
 python-dotenv
 TgCrypto
-httplib2==0.20.4
+httplib2==0.21.0
 contextlib3==3.10.0
 urllib3==1.26.8
 contextlib2==21.6.0
