@@ -9,7 +9,7 @@ python-dotenv
 TgCrypto
 httplib2==0.21.0
 contextlib3==3.10.0
-urllib3==1.26.12
+urllib3==1.26.13
 contextlib2==21.6.0
 hachoir
 pillow
